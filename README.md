@@ -45,7 +45,7 @@ $ cd project
 $ npm install
 ```
 
-## Setup
+<!--## Setup
 
 ```
  Create .env file that include:
@@ -58,7 +58,7 @@ $ npm install
   * FACEBOOK_CLIENT_ID & FACEBOOK_CLIENT_SECRET & FACEBOOK_CALLBACK_URL => Facebook Auth configuration
   * AWS_ACCESS_KEY_ID & AWS_SECRET_ACCESS_KEY & AWS_REGION & AWS_BUCKET_NAME => AWS configuration
 ```
-
+-->
 ## Heroku Deployment
 
 ```
